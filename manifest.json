@@ -1,0 +1,22 @@
+{
+  "name": "SPMS",
+  "description": "Sunflower Preschool Management System (SPMS)",
+  "short_name": "SPMS",
+  "start_url": "http://localhost/iot/index.php",
+  "scope": "http://localhost/iot/index.php",
+  "lang": "en-US",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon2.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+} 
